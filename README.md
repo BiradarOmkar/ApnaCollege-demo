@@ -1,4 +1,4 @@
 # ApnaCollege-demo
 this is my first git repository
 </br>
-Author-Omkar Biradar
+Author-Omkar Biradar(cbit)
